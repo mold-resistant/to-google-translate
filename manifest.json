@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "Google Translate Min. Permissions",
+    "name": "Google Translate",
     "description": "Do that Google Translate with minimal permissions! Supported by a privacy GURU.",
     "version": "3.9",
     "author": "Jared Cox",
@@ -42,7 +42,7 @@
     "web_accessible_resources": ["icons/help.png", "supported_languages.json"],
     "applications": {
         "gecko": {
-            "id": "jid1-93WyvpgvxzGATw@jetpack"
+            "id": "jid1-93WyvpgvxzGATy@jetpack"
         }
     }
 }
