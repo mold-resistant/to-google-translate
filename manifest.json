@@ -3,7 +3,7 @@
     "name": "__MSG_extensionName__",
     "description": "__MSG_extensionDescription__",
     "version": "3.9",
-    "author": "Juan Escobar",
+    "author": "Jared Cox",
     "homepage_url": "https://github.com/itsecurityco/to-google-translate",
     "default_locale": "en",
     "icons": {

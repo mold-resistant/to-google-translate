@@ -1,7 +1,7 @@
-## To Google Translate
+## Google Translate Min Permissions
 ### Introduction
  
-This extension creates a context menu item in the browser, when you click on a menu item, the current page url, link or the previously selected text is sent to Google Translate. You can also setup default language in the option page.
+Minimal permissions version. This extension creates a context menu item in the browser, when you click on a menu item, the current page url, link or the previously selected text is sent to Google Translate. You can also setup default language in the option page.
 
 ### How to use
 #### Changing the default language
@@ -34,3 +34,6 @@ web-ext run
 ### Contributors of new features
 1. [chr314](https://github.com/chr314)
 2. [piroor](https://github.com/piroor)
+
+### Privacy guru
+1. [mold-resistant](https://github.com/mold-resistant)
