@@ -1,10 +1,10 @@
 {
     "manifest_version": 2,
-    "name": "__MSG_extensionName__",
-    "description": "__MSG_extensionDescription__",
+    "name": "Google Translate Min. Permissions",
+    "description": "Do that Google Translate with minimal permissions! Supported by a privacy GURU.",
     "version": "3.9",
     "author": "Jared Cox",
-    "homepage_url": "https://github.com/itsecurityco/to-google-translate",
+    "homepage_url": "https://github.com/mold-resistant/to-google-translate",
     "default_locale": "en",
     "icons": {
         "16": "icons/logo-16.png",
