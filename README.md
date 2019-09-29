@@ -10,9 +10,11 @@ First you should change the default language settings by accessing to about:addo
 #### Translating text
 Select any text in some web page and then right click with your mouse
 
-![](https://raw.githubusercontent.com/itseco/to-google-translate/master/screenshot.png)
+![Firefox Google Translate Screenshot](https://addons.cdn.mozilla.net/user-media/previews/full/225/225342.png)
 
-![](https://raw.githubusercontent.com/itseco/to-google-translate/master/google-translate.png)
+![Firefox Google Translate Add-On](https://addons.cdn.mozilla.net/user-media/previews/full/225/225338.png)
+
+![Firefox Translate Extension](https://addons.cdn.mozilla.net/user-media/previews/full/225/225340.png)
 
 ### Testing out the extension
 You can test the extension in Firefox with *web-ext*. *web-ext* can be installed with the Node Package Manager.
@@ -21,7 +23,7 @@ sudo npm install --global web-ext
 ```
 Download the code from Github
 ```sh
-git clone https://github.com/itseco/to-google-translate.git
+git clone https://github.com/mold-resistant/to-google-translate.git
 cd to-google-translate
 make prepare
 ```
