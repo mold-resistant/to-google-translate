@@ -5,6 +5,7 @@ Minimal permissions version. This extension creates a context menu item in the b
 
 ### How to use
 #### Changing the default language
+![about addons Firefox Google Translate](https://addons.cdn.mozilla.net/user-media/previews/full/225/225337.png)
 First you should change the default language settings by accessing to about:addons > To Google Translate option page.
 
 #### Translating text
@@ -12,6 +13,7 @@ Select any text in some web page and then right click with your mouse
 
 ![Firefox Google Translate Screenshot](https://addons.cdn.mozilla.net/user-media/previews/full/225/225342.png)
 Go to Google Translate at the bottom of your right click menu. You will see three options. Translate will only translate the selection, Listen lets you hear what the selection sounds like and Translate this page will translate the entire page.  
+![Google Translate in Firefox Example](https://addons.cdn.mozilla.net/user-media/previews/full/225/225341.png)
 
 ![Firefox Google Translate Add-On](https://addons.cdn.mozilla.net/user-media/previews/full/225/225338.png)
 You can also click the toolbar button for a quick Google translation.
