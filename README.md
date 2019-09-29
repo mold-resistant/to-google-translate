@@ -12,14 +12,14 @@ First you should change the default language settings by accessing to about:addo
 Select any text in some web page and then right click with your mouse
 
 ![Firefox Google Translate Screenshot](https://addons.cdn.mozilla.net/user-media/previews/full/225/225342.png)
-Go to Google Translate at the bottom of your right click menu. You will see three options. Translate will only translate the selection, Listen lets you hear what the selection sounds like and Translate this page will translate the entire page.  
+Go to Google Translate at the bottom of your right click menu. You will see three options. Translate will only translate the selection, Listen lets you hear what the selection sounds like and Translate this page will translate the entire page.
 ![Google Translate in Firefox Example](https://addons.cdn.mozilla.net/user-media/previews/full/225/225341.png)
 
-![Firefox Google Translate Add-On](https://addons.cdn.mozilla.net/user-media/previews/full/225/225338.png)
 You can also click the toolbar button for a quick Google translation.
+![Firefox Google Translate Add-On](https://addons.cdn.mozilla.net/user-media/previews/full/225/225338.png)
 
+If you have not selected any text, the right click menu will show the option to translate the entire page.
 ![Firefox Translate Extension](https://addons.cdn.mozilla.net/user-media/previews/full/225/225340.png)
-If you have not selected text, the right click menu will show the option to translate the enitre page.
 
 ### Testing out the extension
 You can test the extension in Firefox with *web-ext*. *web-ext* can be installed with the Node Package Manager.
